@@ -159,13 +159,3 @@ O abre el `.tex` directamente en [Overleaf](https://www.overleaf.com) (compilado
 - Jordan, C. W. (1991). *Life Contingencies* (2nd ed.). Society of Actuaries.
 
 ---
-
-## Portafolio completo
-
-| # | Proyecto | Herramientas | Estado |
-|---|---|---|---|
-| 01 | Calculadora de Primas de Vida | Excel · VBA | ✅ Completo |
-| 02 | Dashboard de Siniestralidad | Power BI · DAX | 🔜 En desarrollo |
-| 03 | Modelo GLM para Tarifación | Python · statsmodels | 🔜 Próximo |
-| 04 | Modelo de Riesgo Colectivo | R · actuar | 🔜 Próximo |
-| 05 | Análisis de Portafolio de Pólizas | SQL | 🔜 Próximo |
